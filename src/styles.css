@@ -1,0 +1,39 @@
+.form-container {
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+.success-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .success-container h1 {
+    color: #28a745;
+    margin-bottom: 20px;
+  }
+  
+  .success-details {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    width: 100%;
+    max-width: 600px;
+    white-space: pre-wrap; /* Allows the JSON content to wrap correctly */
+    overflow: auto; /* Ensures that large content is scrollable */
+  }
+  
+  @media (max-width: 600px) {
+    .success-details {
+      width: 90%;
+    }
+  }
+  
