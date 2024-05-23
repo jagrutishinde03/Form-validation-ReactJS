@@ -16,6 +16,13 @@ This project demonstrates how to create a React form with validation for require
 - [MDN Web Docs: Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions) - Regular expressions guide for validating inputs.
 - [YouTube Tutorial](https://youtu.be/EWfHJI3M0Fs?si=DHrfYCiryE5wQswA) - Tutorial on creating a React form.
 
+## Installation and Setup
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/react-form-validation.git
+   cd react-form-validation
+
 ## Technologies Used
 
 - React.js
