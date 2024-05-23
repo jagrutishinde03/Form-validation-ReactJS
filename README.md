@@ -1,7 +1,3 @@
-![image](https://github.com/jagrutishinde03/Form-validation-ReactJS/tree/main/public/form.png)
-![image](https://github.com/jagrutishinde03/Form-validation-ReactJS/blob/main/public/form.png)
-![image](https://github.com/jagrutishinde03/new-profile-explore/assets/96817478/f8d4faaf-c412-460d-9298-ec55e9aff5b0)
-
 # React Form with Validation
 
 This project demonstrates how to create a React form with validation for required fields without using third-party libraries. It also includes functionality to display error messages, disable submission until fields are filled correctly, and show all the filled details on a new route post-successful submission.
@@ -92,6 +88,9 @@ react-form-validation/
 2. Ensure all fields are filled correctly to enable submission.
 3. Click the "Submit" button to validate the form.
 4. Upon successful submission, the filled details will be displayed on a new route.
+
+![image](https://github.com/jagrutishinde03/Form-validation-ReactJS/blob/main/public/form.png)
+![image](https://github.com/jagrutishinde03/Form-validation-ReactJS/blob/main/public/success.png)
 
 ## Credits
 
