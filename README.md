@@ -22,21 +22,40 @@ This project demonstrates how to create a React form with validation for require
    ```bash
    git clone https://github.com/your-username/react-form-validation.git
    cd react-form-validation
+    ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+   
+3. **Install React Router**
+   - If you haven't already installed React Router, you can do so by running:
+   ```bash
+   npm install react-router-dom
+   ```
+   
+4. **Install Bootstrap**
+   - If Bootstrap is not already included in your project, you can add it using npm:   
+   ```bash
+   npm install bootstrap
+   ```
+
+5. **Run the Application**
+   ```bash
+   npm start
+   ```
+
+6. **Open in Browser**
+   - Open your browser and navigate to `http://localhost:3000`
 
 ## Technologies Used
 
 - React.js
 - JavaScript
-- HTML/CSS
+- HTML
+- CSS
 - Bootstrap
-
-## Installation and Setup
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Install dependencies using `npm install`.
-4. Run the project using `npm start`.
-5. Open your browser and go to `http://localhost:3000` to view the form.
 
 ## Project Structure
 
